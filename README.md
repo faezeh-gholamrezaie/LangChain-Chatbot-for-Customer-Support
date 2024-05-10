@@ -1,6 +1,6 @@
 # LangChain-Chatbot-for-Customer-Support
 
-<div style="text-align: center;">
+<div style="align: center;">
     <img width="50%" src="https://github.com/faezeh-gholamrezaie/LangChain-Chatbot-for-Customer-Support/blob/main/Picture1.png">
 </div>
 
