@@ -1,0 +1,6 @@
+tavily-python==0.3.3
+cohere==5.4.0
+langchain==0.1.17
+langchain-community==0.0.36
+langchain-cohere==0.1.4
+langgraph==0.0.44
