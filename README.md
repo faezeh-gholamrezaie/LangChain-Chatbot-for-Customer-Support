@@ -8,3 +8,8 @@ This repository provides a LangChain-powered chatbot for customer support, enabl
 
 Note: Openai and Anthropic's LLM models are not available for free use. These models require a paid subscription to access and utilize their capabilities. Please refer to the respective pricing and usage guidelines for each platform before proceeding.
 
+# Resource
+
+https://langchain-ai.github.io/langgraph/tutorials/customer-support/customer-support/
+
+https://python.langchain.com/v0.1/docs/get_started/quickstart/
